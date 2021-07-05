@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Oziel Carvalho 🌎</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oziellcarvallho/)
-
 <!--
 **oziellcarvallho/oziellcarvallho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
